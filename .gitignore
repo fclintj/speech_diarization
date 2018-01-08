@@ -1,0 +1,13 @@
+praat/
+__pycache__
+.tags
+*.swp
+.idea/
+source/tests/.cache/
+media/CSV_Files_Final/
+media/CSV_Files_from_Praat/
+media/Dialogues_Excel/
+media/Sound Files/
+media/TextGrids/
+media/.fr-jmpF1a/
+
